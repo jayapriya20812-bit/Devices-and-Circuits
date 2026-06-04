@@ -99,21 +99,25 @@ Step 3: Calculate hre =∆𝑉𝑏𝑒
 
 # TABULATION :
 # INPUT CHARACTERISTICS:
+<img width="1600" height="1027" alt="image" src="https://github.com/user-attachments/assets/e8b0fc76-3394-4309-ab6b-711dc1d98b84" />
 
 # OUTPUT CHARACTERISTICS:
+<img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/a0147347-802f-42b4-b0b0-48e82ea388c2" />
 
 # MODEL CALCULATION :
+<img width="1453" height="1600" alt="image" src="https://github.com/user-attachments/assets/5609f407-48f6-4946-b799-bd23715cc45c" />
 
 # MODEL GRAPH:
 
 <img width="372" height="171" alt="image" src="https://github.com/user-attachments/assets/ea5faa57-be49-4f8f-84db-9cda881db5bf" />
 
 # GRAPH:
+<img width="1206" height="1599" alt="image" src="https://github.com/user-attachments/assets/9ff4cba4-58ab-4ecc-a6f2-32ab182602a9" />
 
 # RESULT:
 The input and output characteristics of transistor in CE mode is drawn and,
 the h parameters are calculated.
-Input impedance, hie =Ω
-Output admittance, hoe = mho
-Forward current gain, hf e =
-Reverse voltage gain, hre =
+Input impedance, hie =100v
+Output admittance, hoe = 5*10^3
+Forward current gain, hf e = 1
+Reverse voltage gain, hre = 0.1
