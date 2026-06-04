@@ -54,17 +54,19 @@ Forward Resistance RF = ΔVF/ ΔIF (Ω)
 Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
 # TABULATION
+<img width="1164" height="1280" alt="image" src="https://github.com/user-attachments/assets/24edde2d-a356-4ef7-9d1e-0e7b8b3cff5a" />
 
 # MODEL CALCULATION
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/ce0fd2d4-976e-4adf-85da-f37ad45d4158" />
 
 # MODEL GRAPH
 
 <img width="491" height="224" alt="image" src="https://github.com/user-attachments/assets/7258e48b-93d9-45ef-9bf7-f4f6b2e2cf3a" />
 
 # GRAPH:
+<img width="1167" height="1599" alt="image" src="https://github.com/user-attachments/assets/b20a5d50-8f1b-4c24-98bc-400221df200a" />
 
 
 # RESULT
-1. Forward resistance of PN diode = --------------------
-2. Reverse resistance of PN diode = --------------------
-3. Cut in Voltage of PN diode = -------------------
+1. Forward resistance of PN diode = 0.125 ohm
+2. Reverse resistance of PN diode = 1 ohm
